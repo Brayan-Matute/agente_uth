@@ -1,10 +1,4 @@
 # Agente Virtual - Orientación Universitaria (UTH)
-### Segundo Avance — Segundo Parcial
-
-Chatbot funcional con clasificación de intención por palabras clave, base
-de conocimiento de 31 preguntas frecuentes, registro de auditoría de
-consultas y dos canales de acceso: **interfaz web (navegador)** y
-**Telegram**.
 
 ## Estructura del proyecto
 
