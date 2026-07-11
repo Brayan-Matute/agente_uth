@@ -15,7 +15,7 @@ agente_uth/
 ├── logs/
 │   └── auditoria_consultas.csv  # Se genera automáticamente al usar el bot
 └── docs/
-    └── informe_parcial2.pdf
+    └── informes_parcial1,2.pdf
 ```
 
 ## Instalación
